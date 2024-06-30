@@ -12,6 +12,10 @@ I'm currently in 3rd year Mumbai University B.tech<br>I'm currently learn web de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suthakaranburaj&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suthakaranburaj&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/suthakaranburaj/count.svg?"  />
+</div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=suthakaranburaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
